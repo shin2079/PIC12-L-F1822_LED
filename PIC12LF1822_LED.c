@@ -1,3 +1,5 @@
+//PIC12LF1822
+
 // CONFIG1
 #pragma config FOSC = INTOSC
 #pragma config WDTE = OFF
